@@ -8,3 +8,14 @@ All these offensive techniques and tools have been tested by myself (including s
 If you are looking for a complete workshop/training program, the links below are the core of the unique "Linux Attack and Live Forensics At Scale" (https://edu.defensive-security.com/linux-attack-live-forensics-at-scale) training program. This is the first step to create a dynamic workshop program as a framework, where you can play as Linux attacker, detection engineer and Forensicator at once using full set of custom TTPS! The approach will also allow for the creation of custom attack paths, detection engineering and incident response steps including live forensics.
 
 Purple teaming for life! 
+
+
+## Detection / Forensics
+
+
+## Kernel Space
+https://github.com/milabs/kopycat - Linux Kernel module-less implant (backdoor)
+
+## User Space
+
+## Books / PDFS
