@@ -11,9 +11,24 @@ Purple teaming for life!
 
 
 ## Detection / Forensics
+
+https://github.com/sandflysecurity
+
+https://github.com/Cyb3rWard0g/HELK
+
+https://github.com/Graylog2/graylog2-server
+
+https://github.com/Sysinternals/SysmonForLinux
+
 https://github.com/Velocidex/velociraptor
 
+https://github.com/wazuh/wazuh
+
+https://github.com/osquery/osquery
+
 https://docs.velociraptor.app/exchange/
+
+https://github.com/volatilityfoundation/volatility
 
 https://github.com/volatilityfoundation/community3
 
@@ -21,9 +36,43 @@ https://github.com/pathtofile/bpf-hookdetect
 
 https://github.com/Exein-io/pulsar
 
+https://github.com/ntop/libebpfflow
+
+https://github.com/ehids/ehids-agent
+
+https://github.com/falcosecurity/falco
+
+https://github.com/aquasecurity/tracee
+
+https://github.com/cilium/tetragon
+
+https://github.com/gamemann/XDP-Firewall
+
+https://github.com/linuxthor/rkbreaker
+
+https://github.com/therealdreg/lsrootkit
+
+https://github.com/linuxthor/rkspotter
+
+https://github.com/kkamagui/shadow-box-for-x86
+
+https://github.com/k1nd0ne/VolWeb
+
+https://github.com/robcowart/elastiflow
+
+https://github.com/arkime/arkime
+
 
 
 ## Kernel Space
+
+https://github.com/lukasbalazik123/1337kit
+
+https://github.com/vkobel/linux-syscall-hook-rootkit
+
+https://github.com/h3xduck/TripleCross
+
+https://github.com/amir9339/ebpf_maps_hooking
 
 https://github.com/milabs/kopycat
 
@@ -67,6 +116,10 @@ https://github.com/spiderpig1297/kprochide
 
 https://github.com/pathtofile/bad-bpf
 
+https://github.com/cloudflare/ebpf_exporter
+
+https://github.com/DavadDi/bpf_study
+
 https://github.com/Esonhugh/sshd_backdoor
 
 https://github.com/vrasneur/randkit
@@ -77,12 +130,59 @@ https://github.com/bones-codes/the_colonel
 
 https://github.com/PinkP4nther/Sutekh
 
+https://github.com/spiderpig1297/kfile-over-icmp
+
+https://github.com/dave4422/linux_rootkit
+
+https://github.com/nurupo/rootkit
+
+https://github.com/Nadharm/CoVirt
+
+https://github.com/3intermute/loonix_syscall_hook
+
+https://github.com/alfonmga/hiding-cryptominers-linux-rootkit
+
+https://github.com/loneicewolf/linux-rootkits
+
+https://github.com/yasindce1998/KubeDagger
+
+https://github.com/loneicewolf/EXEC_LKM
+
+https://github.com/deurzen/linux-rootkit
+
+https://github.com/roggenbrot42/rkptum2013
+
+https://github.com/DanielAvinoam/TheSubZeroProject
+
+https://github.com/jermeyyy/rooty
+
+https://github.com/NoviceLive/research-rootkit
+
+https://github.com/aesophor/satan
+
+https://github.com/Pratik32/linux_rkit
+
+https://github.com/AlirezaChegini/kernel-based-keylogger-for-Linux
+
+https://github.com/jordan9001/superhide
+
+https://github.com/nccgroup/ebpf/tree/master/conjob
+
+
 
 ## User Space
 
-https://github.com/yasukata/zpoline - System call hook / binary rewriting
+https://github.com/ldpreload/Medusa
 
-https://github.com/ulexec/SHELF-Loading - SHELF Loading
+https://github.com/arget13/DDexec
+
+https://github.com/mav8557/Father
+
+https://github.com/yasukata/zpoline
+
+https://github.com/mav8557/Father
+
+https://github.com/ulexec/SHELF-Loading
 
 https://github.com/chokepoint/Jynx2
 
@@ -98,10 +198,24 @@ https://github.com/r00tkillah/HORSEPILL
 
 https://github.com/elfmaster/skeksi_virus
 
-## Kubernetes Attack
+https://github.com/nopn0p/rkorova
+
+https://github.com/amir9339/Tcpdump-evasion
+
+https://github.com/Paradoxis/PHP-Backdoor
+
+
+## C2 / Attack Emulation
+
+https://github.com/BishopFox/sliver
+
+https://github.com/facebookincubator/WEASEL
 
 https://github.com/cyberark/kubesploit
+
 https://github.com/controlplaneio/simulator
+
+https://github.com/iagox86/dnscat2
 
 
 
