@@ -304,8 +304,6 @@ https://isovalent.com/data/isovalent_security_observability.pdf
 
 https://cs.brown.edu/~vpk/papers/ret2dir.sec14.pdf
 
-https://ccdcoe.org/uploads/2021/12/2022_NATO_CCD_COE_Training_Catalogue_FINAL.pdf
-
 https://www.iij.ad.jp/en/dev/iir/pdf/iir_vol45_focus_EN.pdf
 
 https://www.brendangregg.com/Slides/BSidesSF2017_BPF_security_monitoring.pdf
