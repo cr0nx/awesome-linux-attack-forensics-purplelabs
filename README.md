@@ -17,8 +17,15 @@ https://docs.velociraptor.app/exchange/ - Velociraptor Exchange
 
 https://github.com/volatilityfoundation/community3 - Volatility3 Community plugins
 
+https://github.com/pathtofile/bpf-hookdetect
+
+https://github.com/Exein-io/pulsar
+
+
+
 
 ## Kernel Space
+
 https://github.com/milabs/kopycat - Linux Kernel module-less implant (backdoor)
 
 https://github.com/stdhu/kernel-inline-hook - Kernel Inline hooking
@@ -29,17 +36,82 @@ https://github.com/C24IO/Netfilter-Hooks-Simple.git - Netfilter hooking
 
 https://github.com/shubham0d/Immutable-file-linux - Ftrace hooking
 
+https://github.com/therealdreg/enyelkm
+
+https://github.com/elfmaster/kprobe_rootkit
+
+https://github.com/En14c/LilyOfTheValley
+
+https://github.com/QuokkaLight/rkduck
+
+https://github.com/a7vinx/liinux
+
+https://github.com/mgrube/DragonKing
+
+https://github.com/aidielse/Rootkits-Playground
+
+https://github.com/cccssw/JynKbeast
+
+https://github.com/hanj4096/wukong
+
+https://github.com/mponcet/subversive
+
+https://github.com/h3xduck/Umbra
+
+https://github.com/CDuPlooy/Rootkit
+
+https://github.com/jussihi/SMM-Rootkit
+
+https://github.com/nnedkov/swiss_army_rootkit
+
+https://github.com/spiderpig1297/kprochide
+
+https://github.com/pathtofile/bad-bpf
+
+https://github.com/Esonhugh/sshd_backdoor
+
+https://github.com/vrasneur/randkit
+
+https://github.com/ricardomaraschini/ebpf-signals
+
+https://github.com/bones-codes/the_colonel
+
+https://github.com/PinkP4nther/Sutekh
+
+
 ## User Space
+
 https://github.com/yasukata/zpoline - System call hook / binary rewriting
 
 https://github.com/ulexec/SHELF-Loading - SHELF Loading
 
-## Books / PDFS 
+https://github.com/chokepoint/Jynx2
+
+https://github.com/unix-thrust/beurk
+
+https://github.com/cloudsec/brootkit
+
+https://github.com/trimpsyw/adore-ng
+
+https://github.com/rvillordo/libpreload
+
+https://github.com/r00tkillah/HORSEPILL
+
+https://github.com/elfmaster/skeksi_virus
+
+## Attack
+
+https://github.com/cyberark/kubesploit
+
+
+## Books / PDFS / DOCS
 [https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf - Detection of persistent rootkit components on embedded IoT devices
 
 https://raw.githubusercontent.com/h3xduck/TripleCross/master/docs/ebpf_offensive_rootkit_tfg.pdf - An analysis of offensive capabilities of eBPF and implementation of a rootkit
 
 https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf - Out-of-Sight-Out-of-Mind-Rootkit (https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf)
+
+https://pentera.io/blog/the-good-bad-and-compromisable-aspects-of-linux-ebpf/
 
 https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf
 
