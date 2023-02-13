@@ -74,6 +74,8 @@ https://github.com/falcosecurity/falco
 
 https://github.com/aquasecurity/tracee
 
+https://github.com/draios/sysdig
+
 https://github.com/cilium/tetragon
 
 https://github.com/gamemann/XDP-Firewall
