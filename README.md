@@ -64,7 +64,7 @@ https://github.com/arkime/arkime
 
 
 
-## Kernel Space
+## Kernel Space rootkits
 
 https://github.com/lukasbalazik123/1337kit
 
@@ -170,7 +170,7 @@ https://github.com/nccgroup/ebpf/tree/master/conjob
 
 
 
-## User Space
+## User Space rootkits
 
 https://github.com/ldpreload/Medusa
 
@@ -220,6 +220,7 @@ https://github.com/iagox86/dnscat2
 
 
 ## Books / PDFS / DOCS
+
 [https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf - Detection of persistent rootkit components on embedded IoT devices
 
 https://raw.githubusercontent.com/h3xduck/TripleCross/master/docs/ebpf_offensive_rootkit_tfg.pdf - An analysis of offensive capabilities of eBPF and implementation of a rootkit
