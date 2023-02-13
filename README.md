@@ -11,11 +11,17 @@ Purple teaming for life!
 
 
 ## Detection / Forensics
+https://github.com/Velocidex/velociraptor - Velociraptor DFIR
+https://docs.velociraptor.app/exchange/ - Velociraptor Exchange
 
 
 ## Kernel Space
 https://github.com/milabs/kopycat - Linux Kernel module-less implant (backdoor)
+https://github.com/stdhu/kernel-inline-hook - Kernel Inline hooking
 
 ## User Space
+https://github.com/yasukata/zpoline - System call hook / binary rewriting
+https://github.com/ulexec/SHELF-Loading - SHELF Loading
 
 ## Books / PDFS
+
