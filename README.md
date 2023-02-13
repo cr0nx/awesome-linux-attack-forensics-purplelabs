@@ -112,6 +112,8 @@ https://github.com/m0nad/Diamorphine
 
 https://github.com/stdhu/kernel-inline-hook
 
+https://github.com/ilammy/ftrace-hook
+
 https://github.com/WeiJiLab/kernel-hook-framework
 
 https://github.com/C24IO/Netfilter-Hooks-Simple.git
