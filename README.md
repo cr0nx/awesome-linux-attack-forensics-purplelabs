@@ -21,6 +21,8 @@ https://github.com/milabs/kopycat - Linux Kernel module-less implant (backdoor)
 
 https://github.com/stdhu/kernel-inline-hook - Kernel Inline hooking
 
+https://github.com/WeiJiLab/kernel-hook-framework - Kernel Hook Framework
+
 ## User Space
 https://github.com/yasukata/zpoline - System call hook / binary rewriting
 
