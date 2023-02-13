@@ -35,4 +35,9 @@ https://github.com/yasukata/zpoline - System call hook / binary rewriting
 https://github.com/ulexec/SHELF-Loading - SHELF Loading
 
 ## Books / PDFS 
+https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf - Detection of persistent rootkit components on embedded IoT devices
+
+https://raw.githubusercontent.com/h3xduck/TripleCross/master/docs/ebpf_offensive_rootkit_tfg.pdf - An analysis of offensive capabilities of eBPF and implementation of a rootkit
+
+
 
