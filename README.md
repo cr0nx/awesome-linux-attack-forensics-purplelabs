@@ -11,11 +11,11 @@ Purple teaming for life!
 
 
 ## Detection / Forensics
-https://github.com/Velocidex/velociraptor - Velociraptor DFIR
+https://github.com/Velocidex/velociraptor
 
-https://docs.velociraptor.app/exchange/ - Velociraptor Exchange
+https://docs.velociraptor.app/exchange/
 
-https://github.com/volatilityfoundation/community3 - Volatility3 Community plugins
+https://github.com/volatilityfoundation/community3
 
 https://github.com/pathtofile/bpf-hookdetect
 
@@ -23,18 +23,17 @@ https://github.com/Exein-io/pulsar
 
 
 
-
 ## Kernel Space
 
-https://github.com/milabs/kopycat - Linux Kernel module-less implant (backdoor)
+https://github.com/milabs/kopycat
 
-https://github.com/stdhu/kernel-inline-hook - Kernel Inline hooking
+https://github.com/stdhu/kernel-inline-hook
 
-https://github.com/WeiJiLab/kernel-hook-framework - Kernel Hook Framework
+https://github.com/WeiJiLab/kernel-hook-framework
 
-https://github.com/C24IO/Netfilter-Hooks-Simple.git - Netfilter hooking
+https://github.com/C24IO/Netfilter-Hooks-Simple.git
 
-https://github.com/shubham0d/Immutable-file-linux - Ftrace hooking
+https://github.com/shubham0d/Immutable-file-linux
 
 https://github.com/therealdreg/enyelkm
 
@@ -99,9 +98,11 @@ https://github.com/r00tkillah/HORSEPILL
 
 https://github.com/elfmaster/skeksi_virus
 
-## Attack
+## Kubernetes Attack
 
 https://github.com/cyberark/kubesploit
+https://github.com/controlplaneio/simulator
+
 
 
 ## Books / PDFS / DOCS
@@ -152,6 +153,9 @@ http://www.people.vcu.edu/~iahmed3/publications/lncs-wisa-2017.pdf
 https://www.crysys.hu/publications/files/setit/thesis_bme_Nagy21msc.pdf
 
 https://www.osdfcon.org/presentations/2019/Ali-Hadi_Performing-Linux-Forensic-Analysis-and-Why-You-Should-Care.pdf
+
+https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf
+
 
 
 
