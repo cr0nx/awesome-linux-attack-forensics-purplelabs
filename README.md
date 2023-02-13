@@ -9,7 +9,7 @@ If you are looking for a complete workshop/training program, the links below are
 
 Purple teaming for life! 
 
-## Open Source SOC / IR
+## Open Source SOC / IR 
 
 https://github.com/Cyb3rWard0g/HELK
 
