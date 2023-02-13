@@ -282,6 +282,8 @@ https://github.com/rapid7/metasploit-framework
 
 ## Books / PDFS / DOCS
 
+https://dl.acm.org/doi/fullHtml/10.1145/3545948.3545980 - Katana: Robust, Automated, Binary-Only Forensic Analysis of Linux Memory Snapshots
+
 https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf - Detection of persistent rootkit components on embedded IoT devices
 
 https://raw.githubusercontent.com/h3xduck/TripleCross/master/docs/ebpf_offensive_rootkit_tfg.pdf - An analysis of offensive capabilities of eBPF and implementation of a rootkit
