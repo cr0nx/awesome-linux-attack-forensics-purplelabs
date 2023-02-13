@@ -39,7 +39,7 @@ https://github.com/ulexec/SHELF-Loading - SHELF Loading
 
 https://raw.githubusercontent.com/h3xduck/TripleCross/master/docs/ebpf_offensive_rootkit_tfg.pdf - An analysis of offensive capabilities of eBPF and implementation of a rootkit
 
-https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf - Out-of-Sight-Out-of-Mind-Rootkit](https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf)
+https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf - Out-of-Sight-Out-of-Mind-Rootkit (https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf)
 
 https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf
 
