@@ -3,34 +3,64 @@ This page is a result of the ongoing hands-on research around advanced Linux att
 
 Due to the fact that I have been practicing the red vs blue approach for years, the material below will allow you to see the scale of the number of projects, techniques and tactics in the scope of Linux/Kubernetes offensive/detection/DFIR.
 
-All these offensive techniques and tools have been tested by myself (including source code analysis and modifications for weaponization), detected by different layers (host/network) and mapped to small hands-on lab scenarios to finally become a part of the PurpleLabs Playground (https://edu.defensive-security.com/) 
+All these offensive techniques and tools have been tested by myself (including source code analysis), detected by different layers (host/network) and mapped to small hands-on lab scenarios to finally become a part of the PurpleLabs Playground (https://edu.defensive-security.com/) 
 
 If you are looking for a complete workshop/training program, the links below are the core of the unique "Linux Attack and Live Forensics At Scale" (https://edu.defensive-security.com/linux-attack-live-forensics-at-scale) training program. This is the first step to create a dynamic workshop program as a framework, where you can play as Linux attacker, detection engineer and Forensicator at once using full set of custom TTPS! The approach will also allow for the creation of custom attack paths, detection engineering and incident response steps including live forensics.
 
 Purple teaming for life! 
 
-
-## Detection / Forensics
-
-https://github.com/sandflysecurity
+## Open Source SOC / IR
 
 https://github.com/Cyb3rWard0g/HELK
 
 https://github.com/Graylog2/graylog2-server
 
-https://github.com/Sysinternals/SysmonForLinux
-
 https://github.com/Velocidex/velociraptor
+
+https://docs.velociraptor.app/exchange/
 
 https://github.com/wazuh/wazuh
 
+https://github.com/robcowart/elastiflow
+
+https://github.com/arkime/arkime
+
 https://github.com/osquery/osquery
 
-https://docs.velociraptor.app/exchange/
+https://github.com/TheHive-Project/TheHive
+
+https://github.com/TheHive-Project/Cortex
+
+https://github.com/Shuffle/Shuffle
+
+https://github.com/dfir-iris/iris-web
+
+https://github.com/MISP/MISP
+
+https://jupyter.org/
+
+https://github.com/OISF/suricata
+
+https://github.com/zeek/zeek
+
+https://github.com/SecurityRiskAdvisors/VECTR
+
+https://github.com/archanchoudhury/SOC-OpenSource
+
+
+## Linux & Kubernetes Detection / Forensics
+
+https://github.com/sandflysecurity
+
+https://github.com/lkrg-org/lkrg
+
+https://github.com/Sysinternals/SysmonForLinux
 
 https://github.com/volatilityfoundation/volatility
 
 https://github.com/volatilityfoundation/community3
+
+https://github.com/k1nd0ne/VolWeb
 
 https://github.com/pathtofile/bpf-hookdetect
 
@@ -56,17 +86,19 @@ https://github.com/linuxthor/rkspotter
 
 https://github.com/kkamagui/shadow-box-for-x86
 
-https://github.com/k1nd0ne/VolWeb
+http://www.chkrootkit.org/
 
-https://github.com/robcowart/elastiflow
-
-https://github.com/arkime/arkime
+https://github.com/octarinesec/kube-scan
 
 
 
-## Kernel Space rootkits
+## Linux Kernel Space rootkits
 
 https://github.com/lukasbalazik123/1337kit
+
+https://github.com/f0rb1dd3n/Reptile
+
+https://github.com/carloslack/KoviD
 
 https://github.com/vkobel/linux-syscall-hook-rootkit
 
@@ -75,6 +107,8 @@ https://github.com/h3xduck/TripleCross
 https://github.com/amir9339/ebpf_maps_hooking
 
 https://github.com/milabs/kopycat
+
+https://github.com/m0nad/Diamorphine
 
 https://github.com/stdhu/kernel-inline-hook
 
@@ -85,6 +119,8 @@ https://github.com/C24IO/Netfilter-Hooks-Simple.git
 https://github.com/shubham0d/Immutable-file-linux
 
 https://github.com/therealdreg/enyelkm
+
+https://github.com/m0nad/Diamorphine
 
 https://github.com/elfmaster/kprobe_rootkit
 
@@ -105,6 +141,8 @@ https://github.com/hanj4096/wukong
 https://github.com/mponcet/subversive
 
 https://github.com/h3xduck/Umbra
+
+https://github.com/ruckuus/kernel-abuse/tree/master/kbeast
 
 https://github.com/CDuPlooy/Rootkit
 
@@ -168,9 +206,16 @@ https://github.com/jordan9001/superhide
 
 https://github.com/nccgroup/ebpf/tree/master/conjob
 
+https://github.com/FlamingSpork/iptable_evil
+
+https://github.com/ilee38/root-of-all-evil
+
+https://github.com/milabs/lkrg-bypass
 
 
-## User Space rootkits
+
+
+## Linux User Space rootkits / injectors
 
 https://github.com/ldpreload/Medusa
 
@@ -198,14 +243,23 @@ https://github.com/r00tkillah/HORSEPILL
 
 https://github.com/elfmaster/skeksi_virus
 
+https://github.com/elfmaster/linker_preloading_virus
+
 https://github.com/nopn0p/rkorova
 
 https://github.com/amir9339/Tcpdump-evasion
 
 https://github.com/Paradoxis/PHP-Backdoor
 
+https://github.com/ixty/mandibule
 
-## C2 / Attack Emulation
+https://github.com/DavidBuchanan314/dlinject
+
+https://github.com/guitmz/memrun
+
+
+
+## Linux C2 / Attack Emulation
 
 https://github.com/BishopFox/sliver
 
@@ -216,6 +270,9 @@ https://github.com/cyberark/kubesploit
 https://github.com/controlplaneio/simulator
 
 https://github.com/iagox86/dnscat2
+
+https://github.com/rapid7/metasploit-framework
+
 
 
 
