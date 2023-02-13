@@ -41,7 +41,6 @@ https://raw.githubusercontent.com/h3xduck/TripleCross/master/docs/ebpf_offensive
 
 https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf - Out-of-Sight-Out-of-Mind-Rootkit](https://www.crysys.hu/publications/files/setit/thesis_bme_Nemeth20bsc.pdf)
 
-
 https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf
 https://vblocalhost.com/uploads/VB2021-Mechtinger-Kennedy.pdf
 https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Fixing-A-Memory-Forensics-Blind-Spot-Linux-Kernel-Tracing-wp.pdf
