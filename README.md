@@ -27,6 +27,8 @@ https://github.com/WeiJiLab/kernel-hook-framework - Kernel Hook Framework
 
 https://github.com/C24IO/Netfilter-Hooks-Simple.git - Netfilter hooking
 
+https://github.com/shubham0d/Immutable-file-linux - Ftrace hooking
+
 ## User Space
 https://github.com/yasukata/zpoline - System call hook / binary rewriting
 
