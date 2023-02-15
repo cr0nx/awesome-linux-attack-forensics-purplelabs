@@ -229,8 +229,6 @@ https://github.com/mav8557/Father
 
 https://github.com/yasukata/zpoline
 
-https://github.com/mav8557/Father
-
 https://github.com/ulexec/SHELF-Loading
 
 https://github.com/chokepoint/Jynx2
@@ -331,6 +329,10 @@ https://www.crysys.hu/publications/files/setit/thesis_bme_Nagy21msc.pdf
 https://www.osdfcon.org/presentations/2019/Ali-Hadi_Performing-Linux-Forensic-Analysis-and-Why-You-Should-Care.pdf
 
 https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf
+
+https://i.blackhat.com/USA-19/Thursday/us-19-Snezhkov-Zombie-Ant-Farming-Practical-Tips-For-Playing-Hide-And-Seek-With-Linux-EDRs.pdf
+
+
 
 
 
